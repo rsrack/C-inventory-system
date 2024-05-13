@@ -1,0 +1,22 @@
+C:\Users\user pc\AppData\Local\Temporary Projects\inventory system mangement\bin\Debug\inventory system mangement.exe
+C:\Users\user pc\AppData\Local\Temporary Projects\inventory system mangement\bin\Debug\inventory system mangement.pdb
+C:\Users\user pc\AppData\Local\Temporary Projects\inventory system mangement\obj\x86\Debug\inventory_system_mangement.Loginform.resources
+C:\Users\user pc\AppData\Local\Temporary Projects\inventory system mangement\obj\x86\Debug\inventory_system_mangement.Properties.Resources.resources
+C:\Users\user pc\AppData\Local\Temporary Projects\inventory system mangement\obj\x86\Debug\inventory system mangement.csproj.GenerateResource.Cache
+C:\Users\user pc\AppData\Local\Temporary Projects\inventory system mangement\obj\x86\Debug\inventory system mangement.exe
+C:\Users\user pc\AppData\Local\Temporary Projects\inventory system mangement\obj\x86\Debug\inventory system mangement.pdb
+C:\Users\user pc\Desktop\EMIROS INVENTORY\inventory system mangement\inventory system mangement\obj\x86\Debug\inventory system mangement.exe
+C:\Users\user pc\Desktop\EMIROS INVENTORY\inventory system mangement\inventory system mangement\obj\x86\Debug\inventory system mangement.pdb
+C:\Users\user pc\Desktop\EMIROS INVENTORY\inventory system mangement\inventory system mangement\bin\Debug\inventory system mangement.exe
+C:\Users\user pc\Desktop\EMIROS INVENTORY\inventory system mangement\inventory system mangement\bin\Debug\inventory system mangement.pdb
+C:\Users\user pc\Desktop\EMIROS INVENTORY\inventory system mangement\inventory system mangement\obj\x86\Debug\inventory_system_mangement.Loginform.resources
+C:\Users\user pc\Desktop\EMIROS INVENTORY\inventory system mangement\inventory system mangement\obj\x86\Debug\inventory_system_mangement.Properties.Resources.resources
+C:\Users\user pc\Desktop\EMIROS INVENTORY\inventory system mangement\inventory system mangement\obj\x86\Debug\inventory system mangement.csproj.GenerateResource.Cache
+C:\Users\user pc\Desktop\EMIROS INVENTORY\inventory system mangement\inventory system mangement\obj\x86\Debug\inventory_system_mangement.MainForm.resources
+C:\Users\user pc\Desktop\EMIROS INVENTORY\inventory system mangement\inventory system mangement\obj\x86\Debug\inventory_system_mangement.ManageUsers.resources
+C:\Users\user pc\Desktop\EMIROS INVENTORY\inventory system mangement\inventory system mangement\obj\x86\Debug\inventory system mangement.csproj.AssemblyReference.cache
+C:\Users\user pc\Desktop\EMIROS INVENTORY\inventory system mangement\inventory system mangement\obj\x86\Debug\inventory system mangement.csproj.CoreCompileInputs.cache
+C:\Users\user pc\Desktop\EMIROS INVENTORY\inventory system mangement\inventory system mangement\obj\x86\Debug\inventory_system_mangement.ManageCustomers.resources
+C:\Users\user pc\Desktop\EMIROS INVENTORY\inventory system mangement\inventory system mangement\obj\x86\Debug\inventory_system_mangement.ManageCategories.resources
+C:\Users\user pc\Desktop\EMIROS INVENTORY\inventory system mangement\inventory system mangement\obj\x86\Debug\inventory_system_mangement.ManageProducts.resources
+C:\Users\user pc\Desktop\EMIROS INVENTORY\inventory system mangement\inventory system mangement\obj\x86\Debug\inventory_system_mangement.ManageOrders.resources
